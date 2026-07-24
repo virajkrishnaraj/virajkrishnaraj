@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 About Me<br>💻 Full-Stack Developer (MERN Stack)<br>⚙️ Passionate Backend Developer (Node.js, Express.js)<br>🧠 Strong in Data Structures, Algorithms & Problem Solving<br>🚀 Exploring AI, System Design & Cloud Technologies<br>🤝 Open to Collaborations, Hackathons & Open Source<br>💡 Passionate about Building Scalable Real-World Solutions<br>🚀 What I Do<br>🛠️ Build Full-Stack Web Applications<br>🌐 Develop REST APIs & Backend Services<br>🎨 Create Responsive UIs using React & Tailwind CSS<br>🔒 Implement Authentication, Authorization & Security<br>⚡ Optimize Application Performance & Database Queries<br>📦 Design Clean, Scalable & Maintainable Code
+<br>💻 Full-Stack Developer (MERN Stack)<br>⚙️ Passionate Backend Developer (Node.js, Express.js)<br>🧠 Strong in Data Structures, Algorithms & Problem Solving<br>🚀 Exploring AI, System Design & Cloud Technologies<br>🤝 Open to Collaborations, Hackathons & Open Source<br>💡 Passionate about Building Scalable Real-World Solutions<br><br>🛠️ Build Full-Stack Web Applications<br>🌐 Develop REST APIs & Backend Services<br>🎨 Create Responsive UIs using React & Tailwind CSS<br>🔒 Implement Authentication, Authorization & Security<br>⚡ Optimize Application Performance & Database Queries<br>📦 Design Clean, Scalable & Maintainable Code
 
 
 ## 🌐 Socials:
@@ -22,6 +22,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=virajkrishnaraj&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=virajkrishnaraj&icon=0&color=13)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
