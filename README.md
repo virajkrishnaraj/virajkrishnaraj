@@ -103,6 +103,7 @@
 ![](https://streak-stats.demolab.com/?user=virajkrishnaraj&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=virajkrishnaraj&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=virajkrishnaraj&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -112,4 +113,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=virajkrishnaraj&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+
+![snake gif](https://github.com/virajkrishnaraj/virajkrishnaraj/blob/output/github-snake-dark.svg)
 ---
