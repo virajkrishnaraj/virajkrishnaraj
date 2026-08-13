@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing Intro -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2800&pause=1500&color=00D9FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Viraj+Krishnaraj;Computer+Science+Engineering+Student;Full-Stack+%7C+MERN+Stack+Developer;Backend+%7C+AI+%26+ML+Enthusiast;Building+Scalable+%26+Innovative+Solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2800&pause=1500&color=00D9FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Viraj+Krishnaraj;Computer+Science+Engineering+Student;UI-UX Designer+%7C+Full+Stack+Developer;Backend+Developer+%7C+AI+%26+ML+Enthusiast;Building+Scalable+%26+Innovative+Solutions" />
 
 <br>
 
