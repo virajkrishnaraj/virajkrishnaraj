@@ -1,4 +1,30 @@
----
+<div align="center">
+
+<!-- Typing Intro -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2800&pause=1500&color=00D9FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Viraj+Krishnaraj;Computer+Science+Engineering+Student;Full-Stack+%7C+MERN+Stack+Developer;Backend+%7C+AI+%26+ML+Enthusiast;Building+Scalable+%26+Innovative+Solutions" />
+
+<br>
+
+<p style="color:#8B949E; font-size:15px;">
+Full-Stack Developer | AI/ML Engineer<br>
+Passionate about building scalable applications, intelligent systems, and solving real-world problems
+</p>
+<br>
+
+<!-- Minimal Social Icons -->
+<a href="https://github.com/virajkrishnaraj">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/viraj-krishnaraj">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:virajkrishnaraj25@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+
 
 # 💫 About Me:
 <br>💻 Full-Stack Developer (MERN Stack)<br>⚙️ Passionate Backend Developer (Node.js, Express.js)<br>🧠 Strong in Data Structures, Algorithms & Problem Solving<br>🚀 Exploring AI, System Design & Cloud Technologies<br>🤝 Open to Collaborations, Hackathons & Open Source<br>💡 Passionate about Building Scalable Real-World Solutions<br><br>🛠️ Build Full-Stack Web Applications<br>🌐 Develop REST APIs & Backend Services<br>🎨 Create Responsive UIs using React & Tailwind CSS<br>🔒 Implement Authentication, Authorization & Security<br>⚡ Optimize Application Performance & Database Queries<br>📦 Design Clean, Scalable & Maintainable Code
