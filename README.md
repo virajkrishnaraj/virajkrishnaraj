@@ -29,7 +29,27 @@ Passionate about building scalable applications, intelligent systems, and solvin
 <br>💻 Full-Stack Developer (MERN Stack)<br>⚙️ Passionate Backend Developer (Node.js, Express.js)<br>🧠 Strong in Data Structures, Algorithms & Problem Solving<br>🚀 Exploring AI, System Design & Cloud Technologies<br>🤝 Open to Collaborations, Hackathons & Open Source<br>💡 Passionate about Building Scalable Real-World Solutions<br><br>🛠️ Build Full-Stack Web Applications<br>🌐 Develop REST APIs & Backend Services<br>🎨 Create Responsive UIs using React & Tailwind CSS<br>🔒 Implement Authentication, Authorization & Security<br>⚡ Optimize Application Performance & Database Queries<br>📦 Design Clean, Scalable & Maintainable Code
 
 <br>
+## 📊 GitHub Statistics
 
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=virajkrishnaraj&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=virajkrishnaraj&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&sideNums=00D9FF" />
+
+</div>
+
+<div align="center">
+
+<img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virajkrishnaraj&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117&title_color=00D9FF&text_color=00D9FF" />
+
+</div>
+
+<div align="center">
+
+[![Viraj's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=virajkrishnaraj&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=00D9FF)](https://github.com/virajkrishnaraj)
+
+</div>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/virajkrishnaraj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:virajkrishnraraj25@gmail.com) 
 
