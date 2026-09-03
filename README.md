@@ -1,6 +1,9 @@
 ---
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6C63FF,100:a78bfa&height=210&section=header&text=Viraj%20Krishnaraj&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=CSE%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20Contributor&descAlignY=62&descSize=16&descColor=e0d7ff" width="100%"/>
+
   
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2800&pause=1500&color=00D9FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Viraj+Krishnaraj;Computer+Science+Engineering+Student;Full-Stack+Developer+%7C+AI%2FML+Engineer;Backend+Developer+%7C+Problem+Solver;Building+Scalable+%26+Intelligent+Solutions" />
 
@@ -128,11 +131,21 @@ Passionate about building scalable applications, intelligent systems, and solvin
 
 <br>
 
-## 🔝 Top Contributed Repo
+## 🐍 Contribution Snake
 ![](https://github-contributor-stats.vercel.app/api?username=virajkrishnaraj&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <br>
 
 ![snake gif](https://github.com/virajkrishnaraj/virajkrishnaraj/blob/output/github-snake-dark.svg)
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,50:6C63FF,100:0D1117&height=120&section=footer&reversal=true" width="100%"/>
+
+<div align="center">
+  
+<img src="https://komarev.com/ghpvc/?username=virajkrishnaraj&style=for-the-badge&color=6C63FF&label=Profile+Views&labelColor=0D1117" alt="Profile Views"/>
+
+</div>
 
 ---
