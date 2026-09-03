@@ -113,6 +113,16 @@ Passionate about building scalable applications, intelligent systems, and solvin
 
 <br>
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+<img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=Mokshith08&theme=flat&margin-w=15&margin-h=15"/>
+
+</div>
+
+<br>
+
 ## ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
